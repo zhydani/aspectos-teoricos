@@ -1,2 +1,3 @@
 # aspectos-teoricos
-quarto periodo unitins
+quarto periodo unitins, avaliação feita em latex
+

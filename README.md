@@ -1,4 +1,4 @@
-# ASPECTOS TEÓRICOS DE COMPUTAÇÃO
+# Aspectos Teóricos de Computação
 quarto periodo unitins
 
 
